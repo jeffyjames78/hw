@@ -6,6 +6,7 @@
     <groupId>com.example</groupId>
     <artifactId>myproject</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <name>myproject</name>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
