@@ -12,7 +12,8 @@ public class ExampleTest {
     }
 
     @Test
-    public void testFunctionUnderTest_testCase1() {
+    public void test_home_function_testCase1() {
         Assert.assertEquals("Hello World!", o.home());
     }
+
 }
